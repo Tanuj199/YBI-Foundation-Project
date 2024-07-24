@@ -1,2 +1,0 @@
-# YBI-Foundation-Project
-Project
